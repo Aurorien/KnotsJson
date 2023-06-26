@@ -1,0 +1,65 @@
+{
+  "knot": [
+    {
+      "id": 1,
+      "img": "./assets/api/img/halvslag.jpg",
+      "name": "Halvslag",
+      "use": "Syftet med halvslaget är att skapa en ögla runt ett föremål för att säkra trossen på plats. Det är en vanlig knop som används för att förtöja båtar. Efter att ha belastats sitter den stadigare än pålsteken, men den är samtidigt enklare och snabbare att utföra. Dessutom är den möjlig att lossa även under högre belastning än pålsteken. "
+    },
+    {
+      "id": 2,
+      "img": "./assets/api/img/halvslag_runt_objekt.jpg",
+      "name": "Halvslag runt objekt",
+      "use": "Halvslaget kan utföras runt ett objekt, som till exempel en påle på bryggan. Det kan också göras runt repet självt efter att ha tagit ett varv runt pålen. Det senare kallas 'om egen part' och är en säkrare metod. "
+    },
+    {
+      "id": 3,
+      "img": "./assets/api/img/dubbelt_halvslag.jpg",
+      "name": "Dubbelt halvslag",
+      "use": "Dubbelt halvslag är säkrare än ett enkelt halvslag. Men om du förtöjer båten med ett dubbel halvslag runt en påle, finns risken att båten drar i repet så mycket att den passiva änden blir kortare och kortare. Till slut kan du förlora en av dina förtöjningar. Om båten ska vara förtöjd under en längre tid, gör ett tripelt halvslag istället."
+    },
+    {
+      "id": 4,
+      "img": "./assets/api/img/dubbelt_halvslag_med_bukt.jpg",
+      "name": "Dubbelt halvslag med bukt",
+      "use": "En alternativ metod är att skapa en bukt av repet så att det blir en nyckstek. Den är mindre säker, men kan enkelt lossas genom att rycka i den obelastade änden. Om du utför ett dubbel halvslag kan det sista halvslaget göras med en bukt för att kunna lossas snabbt."
+    },
+    {
+      "id": 5,
+      "img": "./assets/api/img/palstek.jpg",
+      "name": "Pålstek",
+      "use": "Pålsteken är en traditionell sjömansknop som används av många för olika ändamål. Syftet med en pålstek är att skapa en ögla som kan fästas runt ett föremål. Den stora fördelen med pålsteken är att den enkelt kan lossas, även om den har varit utsatt för hög belastning. Vissa tror att en pålstek alltid kan öppnas, oavsett hur stor belastning den har utsatts för. Tyvärr stämmer inte det. Om repet är mjukt kommer det att komprimeras, vilket gör knopen svår att öppna."
+    },
+    {
+      "id": 6,
+      "img": "./assets/api/img/atta.jpg",
+      "name": "Åtta",
+      "use": "Åttan har två olika användningsområden. Det första är att skapa en ögla, vilket kallas en dubbel åtta. Det andra användningsområdet är att skapa en klump i änden av repet för att förhindra att det glider genom en block, vilket kallas en stoppknop. Vissa människor använder överhandsknopen (som är den enklaste knopen att göra) som en stoppknop, men den kan vara svår att lösa upp efter att den har belastats."
+    },
+    {
+      "id": 7,
+      "img": "./assets/api/img/dubbel_atta.jpg",
+      "name": "Dubbel åtta",
+      "use": "En dubbel åtta går inte upp av sig själv. Klättrare använder och förlitar sig på åttan då knopen inte får lösas upp om de skulle falla. Det är denna knop som du bör använda när du klättrar i en mast, inte en pålstek."
+    },
+    {
+      "id": 8,
+      "img": "./assets/api/img/skotstek.jpg",
+      "name": "Skotstek",
+      "use": "Skotsteken används för att sammanfoga rep med olika dimensioner. Den kan också användas för att fästa ett rep i ett hörn av en presenning, vilket blir mer hållbart än att använda presenningens ringar. För att fästa repet kan du hålla ihop hörnet på preseningen så att det blir avlångt och betrakta det som den tjockare tampen."
+    },
+    {
+      "id": 9,
+      "img": "./assets/api/img/dubbel_skotstek.jpg",
+      "name": "Dubbel skotstek",
+      "use": "Den dubbla skotsteken är mindre benägen att lossna om den har dragits åt fel eller om belastningen ändras. Det gör den mer pålitlig jämfört med en enkel skotstek som kan lätt lossna."
+    },
+    {
+      "id": 10,
+      "img": "./assets/api/img/rabandsknop.jpg",
+      "name": "Råbandsknop",
+      "use": "Den primära användningen är att sammanfoga två rep med samma tjocklek. En annan användning är när en behöver binda ihop ändarna på ett rep som en har tagit runt något."
+    }
+  ]
+}
+
