@@ -2,7 +2,7 @@
   "knot": [
     {
       "id": 1,
-      "img": "./assets/img/halvslag.jpg",
+      "img": "/assets/img/halvslag.jpg",
       "name": "Halvslag",
       "use": "Syftet med halvslaget är att skapa en ögla runt ett föremål för att säkra trossen på plats. Det är en vanlig knop som används för att förtöja båtar. Efter att ha belastats sitter den stadigare än pålsteken, men den är samtidigt enklare och snabbare att utföra. Dessutom är den möjlig att lossa även under högre belastning än pålsteken. "
     },
